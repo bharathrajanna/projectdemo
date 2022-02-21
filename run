@@ -1,3 +1,13 @@
 hi hello world
 this is edited to test git pull
+<<<<<<< HEAD
 this is edited on run file check
+=======
+this is new edition 
+sszdd
+dzsg
+dzfgzdfgzg
+dgzgzsgszg
+this is for git merge test
+
+>>>>>>> afd86776d62b36862c7421db88f5aa5e820c7b2c
